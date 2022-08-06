@@ -1,0 +1,8 @@
+pydantic
+
+[dev]
+pip-tools
+hypothesis[cli]
+mypy
+flake8
+pre-commit
