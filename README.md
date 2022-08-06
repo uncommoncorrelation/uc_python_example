@@ -1,7 +1,7 @@
-#UC Example Python Project
+# UC Example Python Project
 
 Uses venv and piptools. Contains basic setup.py and gitignore config. CLI explainer at
-explainer.txt.
+explainer.md.
 
 ## Whys and Wherefores
 This approach gives greater fidelity of control and visibility over virtual

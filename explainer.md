@@ -1,6 +1,6 @@
 # UC Python Library Packaging
 
-
+## Virtual Environment Preparation with Venv
 Prepare the project directory.
 ```bash
 mkdir uc_python_example
@@ -39,6 +39,8 @@ pip3 install pip-tools
 ```
 
 Now we can compile, with hashes, the environments' respective requirements.
+
+## Virtual Environment Management with Piptools
 
 ```bash
 pip-compile --generate-hashes -o prod-requirements.txt
