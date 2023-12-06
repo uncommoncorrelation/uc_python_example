@@ -11,7 +11,7 @@ cd uc_python_example
 Create the new venv inside the project directory, and activate it.
 
 ```bash
-python3 -m venv /venv --prompt uc_python_example
+python3 -m venv venv --prompt uc_python_example
 
 source venv/bin/activate
 ```
