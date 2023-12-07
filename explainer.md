@@ -15,6 +15,11 @@ python3 -m venv venv --prompt uc_python_example
 
 source venv/bin/activate
 ```
+On windows, the directory structure is different:
+
+```
+source venv/Scripts/activate
+```
 
 Why inside the directory? Ease of access, visibility.
 
